@@ -1,5 +1,7 @@
 # tom4te-tool CLI
 
+CLI tom4te-tool, para ver até onde uma cli pode me levar
+
 A CLI for tom4te-tool.
 
 ## Customizing your CLI
@@ -19,7 +21,7 @@ $ npm test
 $ npm publish
 ```
 
-# License
-
-MIT - see LICENSE
+## Java Script
+=======
+# tom4te-tool
 
